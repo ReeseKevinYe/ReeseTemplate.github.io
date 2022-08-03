@@ -5,7 +5,7 @@ Please check below of the projects that I have completed throughout my studies.
 
 ### Category Name 1 
 
-[Project 1 Titlez](/sample_page)
+[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 In this project, I investigated the ability to make a explainable artifical intellgience algoirthm for mask detection. 
