@@ -3,7 +3,8 @@ Please check below of the projects that I have completed throughout my studies.
 
 ---
 
-### Category Name 1 
+### Explainable Artifical Intelligent Research
+#### UTS Analytics Capstone Project 
 
 [Explainable Artifical Intelligent (UTS project)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
