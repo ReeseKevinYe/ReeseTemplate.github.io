@@ -1,4 +1,5 @@
 ## Portfolio
+Please check below of the projects that I have completed throughout my studies. 
 
 ---
 
