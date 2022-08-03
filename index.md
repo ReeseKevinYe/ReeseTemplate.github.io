@@ -8,7 +8,7 @@ Please check below of the projects that I have completed throughout my studies.
 [Explainable Artifical Intelligent (UTS project)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-In this project, I investigated the ability to make a explainable artifical intellgience algoirthm for mask detection. 
+<p> In this project, I investigated the ability to make a explainable artifical intellgience algoirthm for mask detection. </p>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
