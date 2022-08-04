@@ -16,6 +16,13 @@ Please check below of the projects that I have completed throughout my studies.
   
   <b> The Key skills developed are: </b>
   
+  <ul>
+  <li>Implemented XAI techniques using python programming</li>
+  <li>Utilised qualitative research in studying XAI research papers</li>
+  <li>Conducted qualtiative surveys to test XAI techniques</li>
+  <li>Worked in a team of 5 to conduct research</li>
+</ul>
+  
   
 ---
 
