@@ -1,5 +1,7 @@
 ## Portfolio
-Please check below of the projects that I have completed throughout my studies. 
+Please scroll down below to see the recent projects that I have completed and made throughout my academic and personal journey. 
+
+If you like a specific skillset, you can click on the icons below to filter the different projects. 
 
 ---
 
