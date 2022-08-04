@@ -3,8 +3,8 @@ Please check below of the projects that I have completed throughout my studies.
 
 ---
 
-### Explainable Artifical Intelligent Research 
-##### UTS Analytics Capstone Project, recieved high distinction (95%)
+#### UTS Analytics Capstone Project: Explainable Artifical Intelligent Research 
+##### Recieved high distinction (95%)
 
 
 <img src="images/xai.PNG?raw=true"/>
