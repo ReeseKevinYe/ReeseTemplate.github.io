@@ -11,7 +11,10 @@ Please check below of the projects that I have completed throughout my studies.
 
 [Click Here To Learn More About Explainable Artifical Intelligent (UTS project)](/sample_page)
 
-<p> In this project, I investigated the ability to make a explainable artifical intellgience algoirthm for mask detection. </P>
+<p>Explainable Artifical Intelligence research is the action of explaining the operations that has been made in AI methods.
+  In this project, I investigated and implemented explainable AI techniques (XAI) on mask detection for a hypothetical company XAI consulting enterprises. </P>
+  
+  
 ---
 
 [Project 2 Title](/pdf/sample_presentation.pdf)
