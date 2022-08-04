@@ -7,7 +7,7 @@ Please check below of the projects that I have completed throughout my studies.
 ##### UTS Analytics Capstone Project
 
 [Explainable Artifical Intelligent (UTS project)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/xai.png?raw=true"/>
 
 <p> In this project, I investigated the ability to make a explainable artifical intellgience algoirthm for mask detection. </P>
 ---
