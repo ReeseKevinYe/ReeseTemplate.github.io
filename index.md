@@ -14,7 +14,6 @@ Please check below of the projects that I have completed throughout my studies.
 <p>Explainable Artifical Intelligence research is the action of explaining the operations that has been made in AI methods.
   <br>
   In this project, I investigated and implemented explainable AI techniques (XAI) on mask detection for a hypothetical company XAI consulting enterprises.
-</b> 
 </P>
   
   <b> The Key skills developed are: </b>
